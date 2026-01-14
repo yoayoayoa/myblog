@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Heng Yao&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Heng Yao&#39;s Blog</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇日记</title>
+      <link>http://localhost:1313/posts/my-diary/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-diary/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的博客&#34;&gt;欢迎来到我的博客&lt;/h1&gt;
+&lt;p&gt;这是我亲手搭建的第一个网站，虽然过程很曲折，但看到这一行字的时候非常有成就感！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
