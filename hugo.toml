@@ -2,4 +2,4 @@ baseURL = 'https://myblog-17o.pages.dev/'
 languageCode = 'en-us'
 title = "Heng Yao's Blog"
 
-theme = "stack"
+theme = "PaperMode"
