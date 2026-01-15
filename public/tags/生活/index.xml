@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活 on Heng Yao&#39;s Blog</title>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on Heng Yao&#39;s Blog</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第二篇日记</title>
+      <link>http://localhost:1313/posts/my-second-blog/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-second-blog/</guid>
+      <description>&lt;h1 id=&#34;heng-yao的第一篇blog&#34;&gt;Heng Yao的第一篇blog&lt;/h1&gt;
+&lt;h2 id=&#34;初体验&#34;&gt;初体验&lt;/h2&gt;
+&lt;p&gt;昨天有这个想法创建一个自己的blog网站，自己也不太会，虽然之前在课堂上创建过自己的网站，但是当时完全是跟着老师走的，后来完全忘了，而且根本没有理解是怎样的一个逻辑。&lt;/p&gt;
+&lt;p&gt;昨天晚上尝试了半天，刚开始还能显示出我的网站，到后面把它用cloudflare推送的时候又显示404了。可当时已是12点了，该睡觉了，不过躺床上一直在想，失眠了一会。&lt;/p&gt;
+&lt;p&gt;今天起床立马打开了Gemini，让他帮我解决了。现在也是在写我的&lt;strong&gt;第一篇blog&lt;/strong&gt;了，就记录下这次的经历。&lt;/p&gt;
+&lt;h2 id=&#34;强大的gemini&#34;&gt;强大的Gemini&lt;/h2&gt;
+&lt;p&gt;前段时间花了十几块钱开了Gemini的pro版，非常强，让我感慨现在的AI发展的太快了。当我告诉Gemini我的需求时，他很快的告诉了我好几种方法，我选择了之前做过的这种。&lt;/p&gt;
+&lt;p&gt;还记得去年上课得时候，老师叫我们创建一个自己的网站，当时用ai却没有如今的方便。现在我碰到哪一步出错或者不懂，完全可以截图叫Gemini找出问题并告知我如何解决。这让我的效率完完全全的提高。我是一个完完全全的小白，如果没有Gemini，我可能会直接放弃，因为在这创建的过程中，出现了各种各样的问题，现在的AI可以直接把具体的问题丢给他，然后问如何解决，他会直接告诉你方案，不会弯弯绕绕的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
