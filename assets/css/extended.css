@@ -1,0 +1,19 @@
+/* 导航栏背景颜色 */
+.nav {
+    background: #1e3a8a; /* 这是一种高级的深蓝色 */
+}
+
+/* 导航栏文字颜色（改成白色，否则在蓝色背景下看不清） */
+.nav a {
+    color: white !important;
+}
+
+/* 鼠标悬停时的文字颜色 */
+.nav a:hover {
+    color: #cbd5e1 !important;
+}
+
+/* 标志（Logo）颜色 */
+.logo a {
+    color: white !important;
+}
