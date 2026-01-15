@@ -4,6 +4,8 @@ title = "Peregrine's Blog"
 
 theme = "PaperMod"
 
+hasCJKLanguage = true
+
 [outputs]
     home = ["HTML", "RSS", "JSON"]
 
