@@ -3,3 +3,14 @@ languageCode = 'en-us'
 title = "Peregrine's Blog"
 
 theme = "PaperMod"
+
+[[menu.main]]
+    name = "搜索"
+    url = "search"
+    weight = 10
+
+[[menu.main]]
+    name = "归档"
+    url = "archives"
+    weight = 20
+    
