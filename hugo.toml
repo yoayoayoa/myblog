@@ -4,6 +4,9 @@ title = "Peregrine's Blog"
 
 theme = "PaperMod"
 
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
+
 [[menu.main]]
     name = "搜索"
     url = "search"
@@ -13,4 +16,7 @@ theme = "PaperMod"
     name = "归档"
     url = "archives"
     weight = 20
-    
+
+    [params]
+    # ... 其他参数 ...
+    fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 100, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
